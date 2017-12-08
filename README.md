@@ -6,8 +6,7 @@ In this skeleton, you can fast create plugin of Gradle.
 - Update file ```gradle.properties```
 - Update file ```settings.gradle```
 - Remove ```example``` from file name ```env.properties.example``` and configuration this
-- Add dependencies to ```gradle/dependencies.gradle``` file
-- Instead in ```build.gradle``` file, configure of my application in ```gradle/applyToBuild.gradle``` file
+- Update file ```build.gradle```
 - Write my code of application
 - Add tests
 - Deploy plugin ```gradle publishPluginJCenter``` to ```jCenter``` repository or
